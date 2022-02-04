@@ -1,3 +1,3 @@
 # SoftEng 
 main branch -> UML
-Project Code branch ->Trip Advisor like app
+Project Code branch ->Desktop model of Trip Advisor inspired app
